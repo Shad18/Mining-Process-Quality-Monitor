@@ -51,7 +51,55 @@ Flotation plants process raw ore to separate iron from silica. Maintaining low s
 | 📄 **Reports** | One-click CSV and styled HTML report generation |
 
 ---
+## 📸 Screenshots
 
+### 🏠 Dashboard
+
+![Dashboard](assets/dashboard.jpg)
+
+---
+
+### 🔮 Live Prediction
+
+![Live Prediction](assets/live_prediction.jpg)
+
+---
+
+### 📡 Future Prediction
+
+![Future Prediction](assets/future_prediction.jpg)
+
+---
+
+### 📊 Historical Analytics
+
+![Historical Analytics](assets/historical_analysis.jpg)
+
+---
+
+### 🏭 Process Monitoring
+
+![Process Monitoring](assets/process_monitoring.jpg)
+
+---
+
+### 🔬 Feature Analysis
+
+![Feature Analysis](assets/feature_analysis.jpg)
+
+---
+
+### 🤖 Model Performance
+
+![Model Performance](assets/model_performance.jpg)
+
+---
+
+### 📄 Reports
+
+![Reports](assets/reports.jpg)
+
+---
 ## Tech Stack
 
 | Technology | Role |
