@@ -51,7 +51,7 @@ Flotation plants process raw ore to separate iron from silica. Maintaining low s
 | 📄 **Reports** | One-click CSV and styled HTML report generation |
 
 ---
-## 📸 Screenshots
+## Screenshots
 
 ### 🏠 Dashboard
 
